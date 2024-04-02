@@ -1,0 +1,209 @@
+.geral2{    
+    background-color: #06aa48;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   font-family: ge3;
+   
+
+    color: aliceblue;
+
+
+
+
+   height: 19vh;
+}
+
+
+.azul{
+    color:#0669de;
+    font-family: ge7;
+    margin-right: 20px;
+    padding-left: 12px;
+  
+}
+
+.vermelho{
+   color:#c4170c; 
+   margin-left: 20px;
+   font-family: ge7;
+}
+
+.verde{
+    color:#06aa48;
+    margin-left: 20px;
+    font-family: ge7;
+}
+
+
+.laranja{
+    color:#ff6700;
+    margin-left: 20px;
+    font-family: ge7;
+
+}
+
+.red{
+    color:#c4170c;
+    margin-left: 20px;
+    font-family: ge7;
+
+}
+
+.laranja2{
+    color:#e3672b;
+    margin-left: 20px;
+    font-family: ge7;
+}
+
+
+.cinza{
+    color:#08053a;
+    margin-left: 20px;
+    font-family: ge7;
+
+}
+
+.preto{
+    color:#08053a;
+    font-family: ge7;
+   padding-left: 550px;;
+}
+
+
+.pretao{
+
+    color:#08053a;
+    font-family: ge7;
+    margin-left: 20px;
+   
+  
+
+}
+
+
+.geral1{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  
+  font-family: ge7;
+ 
+}
+
+.botao{
+
+    background-color: white;
+    margin-left: 1000px;
+    text-align: end;
+    margin-bottom: 35px;
+    background-color: #00000026;
+ 
+
+ 
+
+}
+
+.titulo{
+
+    text-align: center;
+
+
+
+
+
+
+
+
+
+}
+
+.paragrafo{
+    font-size: 43px;
+}
+
+.geral3{
+
+ margin-left: 180px;
+ justify-content: space-around;
+ 
+ 
+
+}
+.texto1{
+    font-size: 56px;
+    font-family: ge1;
+    padding-top:30px;
+}
+.texto2{
+    font-family: ge5;
+    font-size: 20px;
+    padding-bottom:30px;
+
+}
+.texto3{
+    font-family: ge8;
+    font size: 4px; 
+    flex-direction:;
+
+  
+    
+}
+.imagens{
+display: flex;
+   flex-direction: row;
+   margin-left: 800px;
+  height: 20px; 
+  width: 20px;
+  margin-right: 200px;
+
+}
+
+.face{
+
+}
+ .passaro{
+    margin-left: 20px;
+
+ }
+
+ .zap{
+ margin-left: 20px ;
+ }
+
+.pato{
+    margin-left: 20px;
+}
+
+.com{
+    margin-left: 20px;
+
+}
+.parte2{
+ font-family: ge8;
+ margin-left: 300px;
+ padding: 30px;
+ font-size: 20px;
+}
+.p1{
+padding-top: 30px;
+}
+.p2{
+    padding-top: 30px;
+
+}
+.p3{
+    padding-top: 30px;
+}
+.flu{
+   margin-left: 270px;
+   width: auto;
+   height: 500px;
+}
+
+.centro{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}

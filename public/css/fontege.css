@@ -1,0 +1,33 @@
+@font-face {
+    font-family: ge1;
+    src: url(/public/assets/font/5462f4c64759cc666538a326be3e6de1.woff2);
+}
+
+@font-face {
+    font-family: ge2;
+    src: url(/public/assets/font/bold.woff2);
+}
+@font-face {
+    font-family: ge3;
+    src: url(/public/assets/font/light.woff2);
+}
+@font-face {
+    font-family: ge4;
+    src: url(/public/assets/font/opensans-bold-normal.woff2);
+}
+@font-face {
+    font-family: ge5;
+    src: url(/public/assets/font/opensans-light-normal.woff2);
+}
+@font-face {
+    font-family: ge6;
+    src: url(/public/assets/font/opensans-regular-normal.woff2);
+}
+@font-face {
+    font-family: ge7;
+    src: url(/public/assets/font/opensans-semibold-normal.woff2);
+}
+@font-face {
+    font-family: ge8;
+    src: url(/public/assets/font/regular.woff2);
+}
